@@ -49,9 +49,9 @@ function toggleNav(){
 // Event listeners
 
 menuBars.addEventListener("click" , toggleNav);
-nav1.addEventListener('clcik', toggleNav);
-nav2.addEventListener('clcik', toggleNav);
-nav3.addEventListener('clcik', toggleNav);
-nav4.addEventListener('clcik', toggleNav);
-nav5.addEventListener('clcik', toggleNav);
+nav1.addEventListener('click', toggleNav);
+nav2.addEventListener('click', toggleNav);
+nav3.addEventListener('click', toggleNav);
+nav4.addEventListener('click', toggleNav);
+nav5.addEventListener('click', toggleNav);
 
